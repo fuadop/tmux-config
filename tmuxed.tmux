@@ -10,8 +10,8 @@ setw -g mode-style bg=colour106,fg=black
 set -g message-style fg=colour106,bg=black,bold
 set -g message-command-style fg=colour106,bg=black
 
-setw -g window-status-format ' #I:#W '
-setw -g window-status-current-format ' #I:#W '
+setw -g window-status-format ' [#I] #W '
+setw -g window-status-current-format ' [#I] #W '
 setw -g window-status-style fg=colour106,bg=black,bold
 setw -g window-status-current-style fg=black,bold,bg=colour106
 
