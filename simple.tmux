@@ -5,8 +5,8 @@ setw -g mode-style bg=white,fg=black
 set -g message-style fg=#ffffff,bg=black
 set -g message-command-style fg=#ffffff,bg=black
 
-setw -g window-status-format '#I:#W '
-setw -g window-status-current-format '#I:#W* '
+setw -g window-status-format ' #I:#W'
+setw -g window-status-current-format ' #I:#W*'
 
 setw -g window-status-current-style fg=#ffffff
 
