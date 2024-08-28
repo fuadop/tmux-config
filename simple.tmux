@@ -1,4 +1,4 @@
-set -g status-style bg=black,fg=white
+set -g status-style bg=#3c3836,fg=white
 
 setw -g mode-style bg=white,fg=black
 
